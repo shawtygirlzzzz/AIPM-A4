@@ -11,3 +11,5 @@
 ##Proposed Approach
 <Use Telegram by sending natural language text commands or through the Streamlit for a more visual and user friendly experience, where they can view, manage and track tasks in real time.>
 
+##Expected Outcome
+<Improved task management efficiency, user engagement and productivity through personalized reminders that help reduce missed tasks.>
