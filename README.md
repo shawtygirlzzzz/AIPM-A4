@@ -9,24 +9,24 @@ SITI NUURIN HAYATI BINTI MURAN TURKEY (B032420150)
 
 AIPM-A4/
 ├── data/
-│ └── README.md
+│   └── README.md
 ├── docs/
-│ ├── README.md
-│ ├── mindmap.jpg
-│ ├── project_concept.md
-│ ├── project_workflow.jpg
-│ └── references.md
+│   ├── README.md
+│   ├── mindmap.jpg
+│   ├── project_concept.md
+│   ├── project_workflow.jpg
+│   └── references.md
 ├── individual_logs/
-│ ├── Reflection_Week02_Alicia.md
-│ ├── Reflection_Week02_Fareen.md
-│ ├── Reflection_Week02_Hayati.md
-│ └── Reflection_Week02_HorYingHuai.md
+│   ├── Reflection_Week02_Alicia.md
+│   ├── Reflection_Week02_Fareen.md
+│   ├── Reflection_Week02_Hayati.md
+│   └── Reflection_Week02_HorYingHuai.md
 ├── notebooks/
-│ └── README.md
+│   └── README.md
 ├── reports/
-│ └── README.md
+│   └── README.md
 ├── src/
-│ └── README.md
+│   └── README.md
 ├── .gitignore
 ├── LICENSE
 ├── README.md
