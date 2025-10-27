@@ -37,7 +37,6 @@
   - **Frontend Developer**: Designs and develops Streamlit dashboard.  
   - **AI/NLP Engineer**: Implements intent recognition and entity extraction.  
 
----
 
 ## Tools & Integration
 
