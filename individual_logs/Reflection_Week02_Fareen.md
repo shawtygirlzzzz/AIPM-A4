@@ -1,9 +1,12 @@
 # AI To-Do List System
 
-Name: Fareen Nathrah binti Yusri
-Matric Number: B032420036
-Section: S3G1
-GitHub Repo: https://github.com/shawtygirlzzzz/AIPM-A4
+**Name:** FAREEN NATHRAH BINTI YUSRI
+**Matric Number:** B032420036
+**Section:** S3G1  
+
+**GitHub Repository:** [https://github.com/shawtygirlzzzz/AIPM-A4](https://github.com/shawtygirlzzzz/AIPM-A4)
+
+---
 
 Reflection
 1.	What did I contribute this week?
@@ -14,4 +17,5 @@ I learned good communication in project planning is important.We also used MS Te
 I faced challenges in how to upload files in the Github repository because I rarely used Github platform for collaboration on codes and documentation of the project.There have some issues on how to merge the file in the Github platform.
 4.	What will I focus on next week?
 Next week, I will be more focusing on the structure of the project, how the AI approach functions in the project. Then, I will also discussing on technical part of the project, starting with the backend implementation and then designing the frontend of the system.
+
 
