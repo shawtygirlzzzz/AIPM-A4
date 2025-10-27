@@ -19,3 +19,4 @@ I faced challenges in how to upload files in the Github repository because I rar
 Next week, I will be more focusing on the structure of the project, how the AI approach functions in the project. Then, I will also discussing on technical part of the project, starting with the backend implementation and then designing the frontend of the system.
 
 
+
