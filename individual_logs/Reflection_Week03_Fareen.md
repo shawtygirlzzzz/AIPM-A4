@@ -4,7 +4,7 @@
 
 **Matric Number:** B032420036
 
-**Section/group:** S3G1  
+**Section:** S3G1  
 
 **GitHub Repository:** [https://github.com/shawtygirlzzzz/AIPM-A4](https://github.com/shawtygirlzzzz/AIPM-A4)
 
