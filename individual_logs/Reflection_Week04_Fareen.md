@@ -17,7 +17,7 @@
 The Development phase contained the most subtasks as it involved creating several components including the Telegram bot, NLP model, backend API and Streamlit dashboard. Each component required careful coordination and integration, making this phase the most detailed and time-consuming.
 
 ### 2. How did breaking tasks down help you plan better?
-Dividing the tasks into smaller parts made the schedule more organized and achievable. It also helped reveal task dependencies, such as needing to complete the dataset before training the model and allowed each team member to focus on specific deliverables without overlap.
+Breaking tasks down help me plan better by segmenting the project and the schedule became highly structured and achievable.This division was key in identifying prerequisite tasks for instance, the data preparation had to precede the model training and ensured that each person's work was distinct and focused.
 
 ### 3. What would you adjust in your project schedule next week?
-Next week I plan to testing and debugging the reminder module, as real-time notifications might need fine-tuning. I will also revisit the timeline to ensure each phase includes sufficient buffer days for integration and error handling.
+Next week I plan to ensure the dashboard development would be complete on time.
