@@ -1,15 +1,16 @@
 **Part 2 : Identify Resources**
 
-| WBS ID | Task | Resource Type | Resource Name | Quantity / Hours | Description |
-|--------|------|----------------|----------------|------------------|--------------|
-| 1.1 | Gather dataset sources | Human | Research Assistant | 6 hrs | Collect sample to-do data and text commands for NLP model training |
-| 1.2 | Clean and label data | Software | Python, Excel | — | Use Python scripts and Excel for data preprocessing and labeling |
-| 2.1 | Develop NLP model | Human | Machine Learning Developer | 10 hrs | Design and train the natural language model for text understanding |
-| 2.2 | Integrate Telegram bot | Human | Backend Developer | 8 hrs | Connect Telegram bot with backend API and message handler |
-| 3.1 | Develop Streamlit dashboard | Human | Frontend Developer | 7 hrs | Create interactive dashboard for managing and visualizing to-do tasks |
-| 3.2 | Testing and debugging | Hardware | Personal Laptop | 5 hrs | Run system integration and unit tests to ensure reliability |
-| 4.1 | Prepare final report | Human | Team Members | 8 hrs | Write, edit, and format the final project documentation |
-| 4.2 | Presentation preparation | Human | Presenter | 4 hrs | Prepare and rehearse presentation slides for final showcase |
+| WBS ID | Task                               | Resource Type | Resource Name           | Quantity / Hours | Description                                                                   |
+| :----- | :--------------------------------- | :------------ | :---------------------- | :--------------- | :---------------------------------------------------------------------------- |
+| 1.1    | Design database schema             | Human         | Backend Developer       | 6 hrs            | Create PostgreSQL tables for users, tasks, and priorities                     |
+| 1.2    | Build task management API          | Software      | FastAPI, Supabase       | —                | Implement CRUD operations for tasks and user management                       |
+| 2.1    | Integrate AI task assistant        | Human         | AI Engineer             | 8 hrs            | Connect GPT model for intelligent task suggestions and chat-based interaction |
+| 2.2    | Connect chat interface             | Software      | Streamlit, Telegram API | —                | Enable task interaction via Streamlit web app and Telegram bot                |
+| 3.1    | Implement calendar synchronization | Software      | Google Calendar API     | —                | Sync tasks and reminders with Google Calendar                                 |
+| 3.2    | Develop frontend interface         | Software      | Streamlit               | —                | Build responsive dashboard and chat interface for users                       |
+| 4.1    | Testing and debugging              | Human         | QA Tester               | 6 hrs            | Test task creation, chat responses, and calendar sync for reliability         |
+| 4.2    | Deploy system to cloud             | Hardware      | RepoCloud Server        | 3 hrs            | Host backend and Streamlit app on RepoCloud for online access                 |
+| 5.1    | Prepare final documentation        | Human         | Project Team            | 4 hrs            | Write user guide, setup instructions, and system architecture overview        |
 
 **Part 3 : Estimate Task Costs**
 | Task | Hours | Rate (RM/hr) | Total Cost (RM) |
@@ -30,4 +31,5 @@
 | Hardware / Cloud | GPU instance | 100 |
 | Software / Licenses | Python, Excel license (if any) | 100 |
 | Total Estimated Budget |  | 1,005 |
+
 
