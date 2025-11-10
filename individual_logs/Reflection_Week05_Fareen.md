@@ -15,7 +15,9 @@
 
 1.	Which project phase has the highest cost and why?
    
+   
 2.	How could you reduce costs without affecting quality?
    
-3.	How does resource allocation influence your schedule and overall success?
+   
+4.	How does resource allocation influence your schedule and overall success?
 
