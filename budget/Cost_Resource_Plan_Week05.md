@@ -32,6 +32,13 @@
 | Software / Licenses | Python, Excel license (if any) | 100 |
 | Total Estimated Budget |  | 1,005 |
 
+## Integration Notes
+
+- The **Model Training** phase (fine-tuning + training the intent recognition model) has the highest cost (RM 480) due to intensive human hours.  
+- **Data Collection** and **Model Design** are also significant cost drivers because of labor-intensive preparation and design tasks.  
+- Software integration tasks (Telegram bot, Streamlit dashboard) are essential but relatively low cost (flat RM 100 each).  
+- Testing and presentation tasks are moderate in cost but align with project milestones for quality assurance and reporting.  
+- Costs are concentrated in the middle of the project timeline, coinciding with model development, evaluation, and dashboard integration.
 
 
 
