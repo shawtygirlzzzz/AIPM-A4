@@ -14,10 +14,11 @@
 ## Reflection
 
 1.	Which project phase has the highest cost and why?
+   The Model Development project phase has the highest cost at RM 425. This is because this phase involves the most core, technical work which are developing data preprocessing script cost RM200 and this is often a complex and time-consuming task requiring higher-skilled labor, do training the predictive model and evaluating model performance is critical part to ensure the model meets objectives.
    
    
 2.	How could you reduce costs without affecting quality?
-   
+   I would reduce 
    
 4.	How does resource allocation influence your schedule and overall success?
 
