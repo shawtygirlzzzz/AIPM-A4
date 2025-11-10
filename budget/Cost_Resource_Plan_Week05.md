@@ -24,12 +24,13 @@
 | Presentation preparation | 4 | 25 | 100 |
 | Total Estimated Cost | — | — | RM 1,005 |
 
-**Part 4 : Build a Simple 
+**Part 4 : Build a Simple** 
 | Cost Category | Example Items | Subtotal (RM) |
 |----------------|----------------|---------------|
 | Human Resources | Research assistant, developer, analyst, presenter | 805 |
 | Hardware / Cloud | GPU instance | 100 |
 | Software / Licenses | Python, Excel license (if any) | 100 |
 | Total Estimated Budget |  | 1,005 |
+
 
 
