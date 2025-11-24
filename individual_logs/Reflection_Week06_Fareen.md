@@ -23,3 +23,8 @@ Quality management ensures clear testing criteria, reduces errors, and helps ide
 
 
 ### 5.	Add existing and modified schedules, announced on teams, and screenshots added to your reflection log.
+<img width="1080" height="565" alt="image" src="https://github.com/user-attachments/assets/7498673f-b3b3-4f68-bf91-426aa8b7f75c" />
+<img width="1080" height="364" alt="image" src="https://github.com/user-attachments/assets/59516e7a-0d61-45a2-acb5-20b91dc51daa" />
+<img width="1170" height="341" alt="image" src="https://github.com/user-attachments/assets/b1eeecdd-e6bc-4f85-b03f-d38937f3628b" />
+
+
