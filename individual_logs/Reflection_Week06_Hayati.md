@@ -22,6 +22,7 @@ Quality management supports project success by ensuring the model, bot, and dash
 <img width="501" height="312" alt="image" src="https://github.com/user-attachments/assets/57e5affa-0377-4f2d-a6ef-41797c3c9b9b" />
 
 ### 5.	Add existing and modified schedules, announced on teams, and screenshots added to your reflection log.
+<img width="1080" height="364" alt="image" src="https://github.com/user-attachments/assets/4379a537-00e0-4030-adfb-e6718c42b64d" />
 <img width="803" height="296" alt="image" src="https://github.com/user-attachments/assets/03a09c9b-5548-45bc-b0b2-1c7ddaff0eb2" />
 <img width="1080" height="565" alt="image" src="https://github.com/user-attachments/assets/77b08053-39a8-4831-aed2-f3fa2375af59" />
 
