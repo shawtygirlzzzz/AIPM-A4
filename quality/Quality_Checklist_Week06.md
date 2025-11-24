@@ -50,17 +50,17 @@
 
 | Quality Item | Criteria | Status |
 |--------------|----------|--------|
-| Dataset collection | Sample commands gathered for all required intents | Pending |
-| Dataset cleaning | No duplicates, consistent formatting, labelled correctly | Pending |
-| Class balance | Intents not severely imbalanced (±20%) | Pending |
-| Model architecture | Clear design diagram prepared | Pending |
-| Intent model performance | ≥ 90% accuracy achieved | Pending |
-| Entity extraction performance | ≥ 85% F1-score | Pending |
-| API integration | Telegram bot connects to model without errors | Pending |
-| Dashboard UI | Responsive layout, clear text, working buttons | Pending |
-| System integration | Telegram bot + Streamlit dashboard run smoothly together | Pending |
-| Functionality testing | At least 10 test cases covering intents/entities | Pending |
-| User validation | Minimum 5 user feedback sessions conducted | Pending |
+| Dataset collection | Sample commands gathered for all required intents | Done |
+| Dataset cleaning | No duplicates, consistent formatting, labelled correctly | Done |
+| Class balance | Intents not severely imbalanced (±20%) | Done |
+| Model architecture | Clear design diagram prepared | Done |
+| Intent model performance | ≥ 90% accuracy achieved | Done |
+| Entity extraction performance | ≥ 85% F1-score | Done |
+| API integration | Telegram bot connects to model without errors | Done |
+| Dashboard UI | Responsive layout, clear text, working buttons | Done |
+| System integration | Telegram bot + Streamlit dashboard run smoothly together | Done |
+| Functionality testing | At least 10 test cases covering intents/entities | Done |
+| User validation | Minimum 5 user feedback sessions conducted | Done |
 | Documentation | Updated, includes installation, usage, architecture overview | Pending |
 | Security | API key hidden, bot token not exposed | Pending |
 | Final review | All quality checkpoints passed | Pending |
@@ -69,7 +69,32 @@
 
 # Integration Notes
 
-- Quality checks inserted after **Model Training (WBS 4.1 & 4.2)** and again after **Dashboard + Bot Integration (WBS 6.2)**.  
-- Highest risk areas occur in **Phase 4 (Model Training)** and **Phase 6 (System Integration)**.  
-- Planner schedule updated to include **model performance verification**, **integration testing**, and **user validation buffer time**.
+### Quality Check Insertions
+Quality review points were added at eight major milestones:
+1. Requirement validation after completing Task 1.1 and 1.2  
+2. Dataset quality verification after completing Task 2.1 and 2.2  
+3. Architecture review after completing Task 3.1 and 3.2  
+4. Model performance evaluation after completing Task 4.1 and 4.2  
+5. Final model selection review after Task 5.1 and 5.2  
+6. Integration validation after Task 6.1 and 6.2  
+7. Usability and functionality assessment after Task 7.1 and 7.2  
+8. Documentation and submission readiness check before Task 8.1 and 8.2  
 
+### Risk Mapping
+High-risk items were linked to the following tasks:
+- Dataset insufficiency: Tasks 2.1–2.2  
+- Model underperformance: Tasks 4.1–4.2  
+- Integration failures (API/Bot): Tasks 6.1–6.2  
+- User acceptance issues: Tasks 7.1–7.2  
+
+Medium-risk items were associated with:
+- Misalignment of features or architecture: Tasks 3.1–3.2  
+- Class imbalance and label errors: Tasks 2.2  
+
+### Schedule Adjustments
+Several tasks required duration extensions:
+- Dataset-related tasks extended by 2 days each  
+- Model-training tasks extended by 1 day each  
+- Model evaluation tasks extended by 1 day  
+- Integration tasks extended by 1 day each  
+- Testing and validation tasks extended by 2 days 
