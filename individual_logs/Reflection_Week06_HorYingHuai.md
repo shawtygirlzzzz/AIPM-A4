@@ -22,4 +22,6 @@ Quality management ensures the project maintains structure, consistency, and mea
 ![alt text](image.png)
 
 ### 5.	Add existing and modified schedules, announced on teams, and screenshots added to your reflection log.
-
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
