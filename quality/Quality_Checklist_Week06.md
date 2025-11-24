@@ -1,5 +1,30 @@
 # Quality Definition (Week 06)
 
+## 1. What must the AI system do to be considered successful?
+- Accurately understand and classify user commands for task creation, reminders, and updates.
+- Correctly extract important entities such as dates, times, task names, and priorities.
+- Respond through the Telegram bot within 2 seconds.
+- Provide a clean, intuitive, and error-free user experience on both the bot and Streamlit dashboard.
+- Operate reliably with minimal misclassifications or crashes.
+
+## 2. What will you measure to confirm the output is of acceptable quality?
+- **Intent Recognition Accuracy** – must achieve at least 90%.  
+- **Entity Extraction F1-Score** – must achieve at least 85%.  
+- **Response Time** – bot replies within 2 seconds; dashboard loads within 3 seconds.  
+- **Data Quality Metrics** – dataset completeness, class balance, correct labeling.  
+- **User Validation Metrics** – positive feedback from test users on usability and clarity.  
+- **System Reliability** – no major errors during testing; stable endpoints and integrations.
+
+## 3. What tools or processes will help ensure quality?
+- **Data Cleaning & Validation:** Pandas, regular expressions, manual label checks.  
+- **Model Evaluation:** Scikit-learn evaluation metrics, confusion matrix, F1-score analysis.  
+- **Testing Procedures:** Unit tests, integration tests for API and bot responses.  
+- **Version Control:** GitHub for tracking changes, issues, and updates.  
+- **Usability Testing:** Sample user sessions to collect feedback.  
+- **Continuous Review:** Peer reviews, repeated testing cycles after Model Training and Integration phases.  
+
+---
+
 - **Accuracy target:**  
   - Intent recognition model must achieve **≥ 90% accuracy**  
   - Entity extraction model must achieve **≥ 85% F1-score**
