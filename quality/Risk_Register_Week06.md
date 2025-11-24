@@ -39,7 +39,32 @@
 
 # Integration Notes
 
-- Risk mitigation scheduled during **Phase 4 (Model Training)** and **Phase 6 (Integration)**.  
-- Integration-related risks mapped directly to WBS tasks **6.1** and **6.2**.  
-- Extra buffer time added in schedule for debugging and integration tests.
+### Quality Check Insertions
+Quality review points were added at eight major milestones:
+1. Requirement validation after completing Task 1.1 and 1.2  
+2. Dataset quality verification after completing Task 2.1 and 2.2  
+3. Architecture review after completing Task 3.1 and 3.2  
+4. Model performance evaluation after completing Task 4.1 and 4.2  
+5. Final model selection review after Task 5.1 and 5.2  
+6. Integration validation after Task 6.1 and 6.2  
+7. Usability and functionality assessment after Task 7.1 and 7.2  
+8. Documentation and submission readiness check before Task 8.1 and 8.2  
 
+### Risk Mapping
+High-risk items were linked to the following tasks:
+- Dataset insufficiency: Tasks 2.1–2.2  
+- Model underperformance: Tasks 4.1–4.2  
+- Integration failures (API/Bot): Tasks 6.1–6.2  
+- User acceptance issues: Tasks 7.1–7.2  
+
+Medium-risk items were associated with:
+- Misalignment of features or architecture: Tasks 3.1–3.2  
+- Class imbalance and label errors: Tasks 2.2  
+
+### Schedule Adjustments
+Several tasks required duration extensions:
+- Dataset-related tasks extended by 2 days each  
+- Model-training tasks extended by 1 day each  
+- Model evaluation tasks extended by 1 day  
+- Integration tasks extended by 1 day each  
+- Testing and validation tasks extended by 2 days 
