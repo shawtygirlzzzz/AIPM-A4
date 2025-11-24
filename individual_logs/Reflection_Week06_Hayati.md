@@ -18,3 +18,8 @@
 ### 3. How does quality management support project success?
 
 
+### 4.	Add screenshots of MS Teams announcements in Part A.
+<img width="501" height="312" alt="image" src="https://github.com/user-attachments/assets/57e5affa-0377-4f2d-a6ef-41797c3c9b9b" />
+
+### 5.	Add existing and modified schedules, announced on teams, and screenshots added to your reflection log.
+
