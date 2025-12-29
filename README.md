@@ -8,11 +8,17 @@ SITI NUURIN HAYATI BINTI MURAN TURKEY (B032420150)
 # Repository Structure
 
 AIPM-A4/
+
 ├── LICENSE
+
 ├── README.md
+
 ├── budget/
+
 │   ├── Cost Sheet.xlsx
+
 │   └── Cost_Resource_Plan_Week05.md
+
 ├── communication/
 │   └── Communication_Plan_Week07.md
 ├── data/
