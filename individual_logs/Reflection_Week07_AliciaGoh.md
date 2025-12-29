@@ -1,7 +1,14 @@
-# Individual Reflection - Week 07
+# AI To-Do List System
 
-**Name:** Alicia Goh Ting Ting
-**Role:** Project Manager
+**Name:** Alicia Goh Ting Ting  
+**Matric Number:** B032420018  
+**Section:** S3G1  
+
+**GitHub Repo:** [https://github.com/shawtygirlzzzz/AIPM-A4](https://github.com/shawtygirlzzzz/AIPM-A4)
+
+---
+
+## Reflection
 
 ### 1. How does effective communication reduce project risks?
 Effective communication acts as an early warning system for our project. [cite_start]By enforcing **daily stand-ups** and clear **GitHub commit messages**, we ensure that technical blockers (such as merge conflicts or API errors) are identified immediately rather than discovering them right before the deadline[cite: 61]. This prevents "silos" where team members might waste time working on the wrong requirements, thereby reducing the risk of late submission or failing to meet the Course Coordinator's rubric.
