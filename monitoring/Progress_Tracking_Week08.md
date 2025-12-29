@@ -20,7 +20,7 @@
 | 4.2 | Fine-tune entity extraction model | Siti Nuurin | 2025-10-31 | 100% | 85% | 🔴 Behind |
 | 5.1 | Evaluate model accuracy | Hor Ying Huai | 2025-11-04 | 100% | 20% | 🔴 Behind |
 | 6.1 | Develop Streamlit dashboard | Alicia Goh | 2025-11-11 | 50% | 60% | 🟢 Ahead |
-| 6.2 | Integrate Telegram bot | Siti Nuurin | 2025-11-14 | 0% | 0% | 🟢 Ahead |
+| 6.2 | Integrate Telegram bot | Siti Nuurin | 2025-11-14 | 0% | 0% | ⚪ Not Started |
 
 ## 3. Performance Analysis
 
