@@ -1,7 +1,7 @@
 # AI To-Do List System
 
-**Name:** Hor Ying Huai  
-**Matric Number:** B032420042  
+**Name:** Siti Nuurin Hayati binti Muran Turkey
+**Matric Number:** B032420150 
 **Section:** S3G1  
 
 **GitHub Repo:** [https://github.com/shawtygirlzzzz/AIPM-A4](https://github.com/shawtygirlzzzz/AIPM-A4)
