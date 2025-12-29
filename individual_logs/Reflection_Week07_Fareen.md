@@ -8,3 +8,10 @@
 
 ---
 
+## Reflection
+### 1.	How does effective communication reduce project risks?
+
+
+### 2.	Which stakeholder is most critical to your project’s success and why?
+
+
